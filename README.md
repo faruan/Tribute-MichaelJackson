@@ -1,2 +1,2 @@
 # Tribute-MichaelJackson
-Project with HTML and CSS
+Page for tribute to Michael Jackson using only html and css
